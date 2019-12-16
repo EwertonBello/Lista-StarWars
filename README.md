@@ -1,21 +1,7 @@
-# Boilerplate TypeScript Vanilla
-Boilerplate TypeScript vanilla com webpack e ts-loader<br/>
-<Strong>TypeScript: </Strong>(https://www.typescriptlang.org/)<br/>
-<Strong>ts-loader: </Strong>(https://github.com/TypeStrong/ts-loader/)<br/>
-<Strong>webpack: </Strong>(https://webpack.js.org/)
+# Trabalho de Programação WEB
+Desenvolvimento de uma página WEB. Que utilizando os componentes do Bulma Framework, lista os personagens de Star Wars consumindo api.<br/>
+<Strong>Projeto Base: </Strong>(https://github.com/EwertonBello/teste-vanilla-ts)<br/>
+<Strong>Repositório da API: </Strong>(https://github.com/akabab/starwars-api)<br/>
+<Strong>Bulma: </Strong>(https://bulma.io/)<br/><br/>
 
-### Procedimento
-
-1. Dentro do diretório desejado faça:
-    ```
-    git clone https://github.com/EwertonBello/teste-vanilla-ts.git nome-desejado-do-seu-projeto
-    ```
-    <h6>Obs: altere o name no package.json se preferir.</h6>
-2. Depois de criado seu projeto, dentro dele, para executar faça:<br/>
-    ```
-    yarn install ou npm install
-    
-    yarn build ou npm run build
-    
-    yarn start ou npm start
-    ```
+<Strong>Demo: </Strong>(http://ewertonbello.github.io/Lista-StarWars/)
