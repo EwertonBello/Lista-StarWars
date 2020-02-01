@@ -29,7 +29,7 @@ axios
       `;
     });
 
-    document.getElementsByClassName('section')[0].innerHTML = this.text;
+    document.getElementById('section').innerHTML = this.text;
   })
   .catch(err => {
     console.log(err);
